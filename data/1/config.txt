@@ -1,0 +1,27 @@
+155                    desired images number
+1300                   WIND_X
+700                    WIND_Y
+700                    x size
+450                    y size
+50                     x position
+50                     y position
+10                     min x position
+300                    max x position
+10                     min y position
+200                    max y position
+2                      x speed
+1                      y speed
+/Users/elijah/Dropbox/Programming/deblur/data/1/window_head.jpg
+Pupa i Lupa poshli
+650                    x size
+300                    y size
+50                     x position
+70                    y position
+10                     min x position
+300                    max x position
+10                     min y position
+350                    max y position
+3                      x speed
+4                      x speed
+/Users/elijah/Dropbox/Programming/deblur/data/1/window_head.jpg
+poluchat' zarplatu
